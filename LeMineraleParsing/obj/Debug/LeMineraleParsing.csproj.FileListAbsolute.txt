@@ -1,0 +1,27 @@
+E:\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\LeMineraleParsing.exe.config
+E:\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\LeMineraleParsing.exe
+E:\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\LeMineraleParsing.pdb
+E:\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\obj\Debug\LeMineraleParsing.exe
+E:\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\obj\Debug\LeMineraleParsing.pdb
+E:\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\obj\Debug\LeMineraleParsing.csprojResolveAssemblyReference.cache
+E:\E\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\LeMineraleParsing.exe.config
+E:\E\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\obj\Debug\LeMineraleParsing.exe
+E:\E\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\obj\Debug\LeMineraleParsing.pdb
+E:\E\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\LeMineraleParsing.exe
+E:\E\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\LeMineraleParsing.pdb
+E:\E\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\SpssLib.dll
+E:\E\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\bin\Debug\SpssLib.xml
+E:\E\Clue-Box Work\V.Studio\LeMineraleParsing\LeMineraleParsing\obj\Debug\LeMineraleParsing.csprojResolveAssemblyReference.cache
+E:\E\Projects-Mayora\LeMineraleParsing\LeMineraleParsing\bin\Debug\LeMineraleParsing.exe.config
+E:\E\Projects-Mayora\LeMineraleParsing\LeMineraleParsing\obj\Debug\LeMineraleParsing.exe
+E:\E\Projects-Mayora\LeMineraleParsing\LeMineraleParsing\obj\Debug\LeMineraleParsing.pdb
+E:\E\Projects-Mayora\LeMineraleParsing\LeMineraleParsing\bin\Debug\LeMineraleParsing.exe
+E:\E\Projects-Mayora\LeMineraleParsing\LeMineraleParsing\bin\Debug\LeMineraleParsing.pdb
+E:\E\Projects-Mayora\LeMineraleParsing\LeMineraleParsing\bin\Debug\SpssLib.dll
+E:\E\Projects-Mayora\LeMineraleParsing\LeMineraleParsing\bin\Debug\SpssLib.xml
+E:\E\Projects-Mayora\LeMineraleParsing\LeMineraleParsing\obj\Debug\LeMineraleParsing.csprojResolveAssemblyReference.cache
+E:\E\Projects-Mayora\LeMinerale\LeMineraleParsing\bin\Debug\LeMineraleParsing.exe.config
+E:\E\Projects-Mayora\LeMinerale\LeMineraleParsing\obj\Debug\LeMineraleParsing.exe
+E:\E\Projects-Mayora\LeMinerale\LeMineraleParsing\obj\Debug\LeMineraleParsing.pdb
